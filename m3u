@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 logo="" group-title="" ,斗鱼PDD
+https://live.52sf.ga/douyu/101
 #EXTINF:-1 logo="" group-title="" ,虎牙托马斯
 https://live.52sf.ga/huya/20641
 #EXTINF:-1 logo="" group-title="" ,豬哥亮歌廳秀
