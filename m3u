@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 logo="" group-title="" ,测试
+rtsp://183.59.156.50/PLTV/88888905/224/3221227218/10000100000000060000000000988525_0.smil?&accountinfo=~~V2.0~sFZ46mFNJb4XrlnNoWuN5w~zJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM%2CEND&GuardEncType=2
 #EXTINF:-1 logo="" group-title="" ,斗鱼PDD
 https://live.52sf.ga/douyu/101
 #EXTINF:-1 logo="" group-title="" ,斗鱼PDD备用
