@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-
+#EXTINF:-1 logo="" group-title="" ,周星星
+http://192.168.123.1:5000/huya/11342412
 #EXTINF:-1 logo="" group-title="" ,斗鱼PDD
 https://live.52sf.ga/douyu/101
 #EXTINF:-1 logo="" group-title="" ,斗鱼PDD备用
