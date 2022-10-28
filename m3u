@@ -5,5 +5,9 @@ http://epg.112114.xyz/douyu/101
 http://192.168.123.205:5000/douyu/101
 #EXTINF:-1 logo="" group-title="" ,虎牙托马斯
 http://epg.112114.xyz/huya/20641
-#EXTINF:-1 logo="" group-title="" ,localhost虎牙托马斯
+#EXTINF:-1 logo="" group-title="" ,local虎牙托马斯
 http://192.168.123.205:5000/huya/20641
+#EXTINF:-1 logo="" group-title="" ,B站测试
+http://epg.112114.xyz/bilibili/94277
+#EXTINF:-1 logo="" group-title="" ,localB站测试
+http://192.168.123.205:5000/bilibili/94277
