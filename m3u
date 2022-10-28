@@ -3,7 +3,11 @@
 https://live.52sf.ga/douyu/101
 #EXTINF:-1 logo="" group-title="" ,斗鱼PDD备用
 http://epg.112114.xyz/douyu/101
+#EXTINF:-1 logo="" group-title="" ,localhost斗鱼PDD
+http://192.168.123.205:5000/douyu/101
 #EXTINF:-1 logo="" group-title="" ,虎牙托马斯
 https://live.52sf.ga/huya/20641
 #EXTINF:-1 logo="" group-title="" ,虎牙托马斯备用
 http://epg.112114.xyz/huya/20641
+#EXTINF:-1 logo="" group-title="" ,localhost虎牙托马斯
+http://192.168.123.205:5000/huya/20641
