@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 logo="" group-title="" ,斗鱼PDD
 http://epg.112114.xyz/douyu/101
-#EXTINF:-1 logo="" group-title="" ,localhost斗鱼PDD
+#EXTINF:-1 logo="" group-title="" ,local斗鱼PDD
 http://192.168.123.205:5000/douyu/101
 #EXTINF:-1 logo="" group-title="" ,虎牙托马斯
 http://epg.112114.xyz/huya/20641
@@ -15,3 +15,5 @@ http://192.168.123.205:5000/bilibili/94277
 http://live.misakaf.org/hls/stream.m3u8
 #EXTINF:-1 logo="" group-title="" ,local虎牙test
 http://192.168.123.205:5000/huya/880201
+#EXTINF:-1 logo="" group-title="" ,NBA随机
+https://carreroenv11673.s3-accelerate.amazonaws.com/wizards.m3u8
