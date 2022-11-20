@@ -17,3 +17,5 @@ http://live.misakaf.org/hls/stream.m3u8
 http://192.168.123.205:5000/huya/880201
 #EXTINF:-1 logo="" group-title="" ,4k咪咕
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1 logo="" group-title="" ,cctv16-4k
+http://27.36.62.163:9090/live/4010.m3u8
