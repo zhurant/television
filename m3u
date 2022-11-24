@@ -19,3 +19,21 @@ http://192.168.123.205:5000/huya/880201
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1 logo="" group-title="" ,cctv16-4k
 http://27.36.62.163:9090/live/4010.m3u8
+#EXTINF:-1 logo="" group-title="" ,虎牙周星星
+http://epg.112114.xyz/huya/11342412
+#EXTINF:-1 logo="" group-title="" ,虎牙阿斗归来
+http://epg.112114.xyz/huya/13303478
+#EXTINF:-1 logo="" group-title="" ,虎牙影院
+http://epg.112114.xyz/huya/11601968
+#EXTINF:-1 logo="" group-title="" ,虎牙滚滚长江东逝水 
+http://epg.112114.xyz/huya/11352944
+#EXTINF:-1 logo="" group-title="" ,虎牙经典武侠 
+http://epg.112114.xyz/huya/12129867
+#EXTINF:-1 logo="" group-title="" ,虎牙小木子先生
+http://epg.112114.xyz/huya/11342396
+#EXTINF:-1 logo="" group-title="" ,虎牙瞬间爆炸
+http://epg.112114.xyz/huya/11352960
+#EXTINF:-1 logo="" group-title="" ,虎牙武林萌主唐小姐
+http://epg.112114.xyz/huya/11336726
+#EXTINF:-1 logo="" group-title="" ,虎牙种瓜得弟弟
+http://epg.112114.xyz/huya/11352872
