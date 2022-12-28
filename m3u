@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=3OHVI9He8Yf6kNRHe%2FZT%2FQ%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1350_4500
 #EXTINF:-1 logo="" group-title="" ,斗鱼PDD
 http://epg.112114.xyz/douyu/101
 #EXTINF:-1 logo="" group-title="" ,local斗鱼PDD
@@ -15,8 +13,6 @@ http://epg.112114.xyz/bilibili/94277
 http://192.168.123.205:5000/bilibili/94277
 #EXTINF:-1 logo="" group-title="" ,local抖音直播间test
 http://192.168.123.1:5678/douyin.php?id=600571451250
-#EXTINF:-1 logo="" group-title="" ,cctv16-4k
-http://27.36.62.163:9090/live/4010.m3u8
 #EXTINF:-1 logo="" group-title="" ,虎牙周星星
 http://epg.112114.xyz/huya/11342412
 #EXTINF:-1 logo="" group-title="" ,虎牙阿斗归来
