@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=3OHVI9He8Yf6kNRHe%2FZT%2FQ%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1350_4500
 #EXTINF:-1 logo="" group-title="" ,斗鱼PDD
 http://epg.112114.xyz/douyu/101
 #EXTINF:-1 logo="" group-title="" ,local斗鱼PDD
