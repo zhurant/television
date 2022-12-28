@@ -11,8 +11,8 @@ http://192.168.123.205:5000/huya/20641
 http://epg.112114.xyz/bilibili/94277
 #EXTINF:-1 logo="" group-title="" ,localB站测试
 http://192.168.123.205:5000/bilibili/94277
-#EXTINF:-1 logo="" group-title="" ,local虎牙test
-http://192.168.123.205:5000/huya/880201
+#EXTINF:-1 logo="" group-title="" ,local抖音直播间test
+http://192.168.123.1:5678/douyin.php?id=600571451250
 #EXTINF:-1 logo="" group-title="" ,cctv16-4k
 http://27.36.62.163:9090/live/4010.m3u8
 #EXTINF:-1 logo="" group-title="" ,虎牙周星星
