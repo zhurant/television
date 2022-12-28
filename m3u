@@ -41,7 +41,6 @@ http://epg.112114.xyz/douyu/3637726
 http://epg.112114.xyz/douyu/252802
 #EXTINF:-1 logo="" group-title="" ,斗鱼特辑电影院
 http://epg.112114.xyz/douyu/252802
-#EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
 http://192.168.123.1:5678/sxg.php?id=CCTV-1H265_4000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
