@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+
 #EXTINF:-1 logo="" group-title="互联网采集源" ,斗鱼PDD
 http://epg.112114.xyz/douyu/101
 #EXTINF:-1 logo="" group-title="互联网采集源" ,local斗鱼PDD
