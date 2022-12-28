@@ -11,10 +11,10 @@ http://192.168.123.205:5000/huya/20641
 http://epg.112114.xyz/bilibili/94277
 #EXTINF:-1 logo="" group-title="" ,localB站测试
 http://192.168.123.205:5000/bilibili/94277
-#EXTINF:-1 logo="" group-title="" ,local抖音直播间test
+#EXTINF:-1 logo="" group-title="" ,罗永浩抖音直播间
 https://php.52sf.ga/douyin.php?id=168465302284
-#EXTINF:-1 logo="" group-title="" ,local抖音直播间测试
-http://192.168.123.1:5678/douyin.php?id=77089790109
+#EXTINF:-1 logo="" group-title="" ,涛哥水果直播间
+https://php.52sf.ga/douyin.php?id=77089790109
 #EXTINF:-1 logo="" group-title="" ,虎牙周星星
 http://epg.112114.xyz/huya/11342412
 #EXTINF:-1 logo="" group-title="" ,虎牙阿斗归来
