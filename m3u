@@ -42,6 +42,64 @@ http://epg.112114.xyz/douyu/3637726
 http://epg.112114.xyz/douyu/252802
 #EXTINF:-1 logo="" group-title="互联网采集源" ,斗鱼特辑电影院
 http://epg.112114.xyz/douyu/252802
+
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视gudou",CCTV4K
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=4005
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视gudou",CCTV16-4K
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=4010
+#EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东gudou",广东综艺4K
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=GDZYHD4K_38000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="其他gudou",G导视高清
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=GHDdaoshi_7500
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台gudou",翡翠台
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1350_4500
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台gudou",明珠台
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1351_4500
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台gudou",凤凰中文
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=fhzw_1500
+#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="卫视gudou",星空卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=xingkong_1500
+#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="卫视gudou",澳亚卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=aoya_1500
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视gudou",CCTV1
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV1HD_7000
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视gudou",CCTV2
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV2HD_7000
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视gudou",CCTV3
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV3HD_7000
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视gudou",CCTV4
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV-4HD_7500
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视gudou",CCTV5
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1605_4500
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视gudou",CCTV5+
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1403_4500
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视gudou",CCTV6
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV6HD_7000
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视gudou",CCTV7
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV7HD_7000
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视gudou",CCTV8
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV8HD_7000
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视gudou",CCTV9
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV9HD_7000
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视gudou",CCTV10
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV10HD_7000
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视gudou",CCTV11
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV-11HD_7500
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视gudou",CCTV12
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV12HD_7000
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视gudou",CCTV13
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1613
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视gudou",CCTV14
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV14HD_7000
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视gudou",CCTV15
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV-15HD_7500
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视gudou",CCTV16
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1617_4500
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视gudou",CCTV17
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV17HD
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视gudou",CGTN
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV15news_1500
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视sxg",CCTV-1 综合
 http://192.168.123.1:5678/sxg.php?id=CCTV-1H265_4000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视sxg",CCTV-2 财经
@@ -82,14 +140,51 @@ http://192.168.123.1:5678/sxg.php?id=CCTV-16-4K_8000
 http://192.168.123.1:5678/sxg.php?id=CCTV-17_4000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视sxg",CCTV-4K 超高清
 http://192.168.123.1:5678/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="其他sxg",4K超高清电影 4K
-http://192.168.123.1:5678/sxg.php?id=emdy4k_8000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他sxg",欢笑剧场4K
-http://192.168.123.1:5678/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台sxg",凤凰中文
-http://192.168.123.1:5678/sxg.php?id=test1_4000
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台sxg",凤凰资讯
-http://192.168.123.1:5678/sxg.php?id=test2_4000
+
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视gudou",广东卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=guangdongHD_7000
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视gudou",深圳卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=shenzhenHD_7000
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视gudou",东方卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=dongfangHD_7000
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视gudou",北京卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=beijingHD_7000
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视gudou",湖南卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=hunanHD_7000
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视gudou",江西卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=jiangxiHD_7000
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视gudou",四川卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=sichuanHD_7000
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视gudou",江苏卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=jiangsuHD_7000
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视gudou",浙江卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=zhejiangHD_7000
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视gudou",天津卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1415_4500
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视gudou",河北卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1426_4500
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视gudou",重庆卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=chongqingHD_7000
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视gudou",贵州卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=guizhouHD_7000
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视gudou",辽宁卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=liaoningHD_7000
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视gudou",湖北卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=hubeiHD_7000
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视gudou",安徽卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=anhuiHD_7000
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视gudou",黑龙江卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=heilongjiangHD_7000
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视gudou",海南卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1451_4500
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视gudou",陕西卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1452_4500
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视gudou",东南卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=dongnanweishiHD
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视gudou",大湾区卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=gdnanfang_1500
+
+
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视sxg",安徽卫视
 http://192.168.123.1:5678/sxg.php?id=ahwsH265_4000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视sxg",北京卫视
@@ -152,6 +247,11 @@ http://192.168.123.1:5678/sxg.php?id=xzwsH264_2000
 http://192.168.123.1:5678/sxg.php?id=ynws_4000
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视sxg",浙江卫视
 http://192.168.123.1:5678/sxg.php?id=zjwsH265_4000
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="其他sxg",4K超高清电影 4K
+http://192.168.123.1:5678/sxg.php?id=emdy4k_8000
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他sxg",欢笑剧场4K
+http://192.168.123.1:5678/sxg.php?id=hxjc-4k_8000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他sxg",CETV-1
 http://192.168.123.1:5678/sxg.php?id=CETV-1H264_4000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他sxg",CETV-4
@@ -238,6 +338,8 @@ http://192.168.123.1:5678/sxg.php?id=cwdsHDH264_4000
 http://192.168.123.1:5678/sxg.php?id=jpdsH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/沙湾融媒.png" group-title="其他sxg",沙湾融媒
 http://192.168.123.1:5678/sxg.php?id=swxwzh_2000
+
+
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/四川文化旅游.png" group-title="四川sxg",四川文化旅游
 http://192.168.123.1:5678/sxg.php?id=SCTV-2-H265_4000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/四川经济.png" group-title="四川sxg",四川经济
@@ -254,6 +356,8 @@ http://192.168.123.1:5678/sxg.php?id=SCTV-ggSCTV-8_4000
 http://192.168.123.1:5678/sxg.php?id=SCTV-kjSCTV-9-_4000
 #EXTINF:-1,tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://epg.112114.xyz/logo/峨嵋电影.png" group-title="四川sxg",四川峨嵋电影
 http://192.168.123.1:5678/sxg.php?id=emdygqH265_4000
+
+
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都新闻综合.png" group-title="其他sxg",成都新闻综合
 http://192.168.123.1:5678/sxg.php?id=CDTV-1_4000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都经济资讯.png" group-title="其他sxg",成都经济资讯
@@ -596,102 +700,14 @@ http://192.168.123.1:5678/sxg.php?id=jygw_4000
 http://192.168.123.1:5678/sxg.php?id=yggwgq_4000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/优购物.png" group-title="其他sxg",优购物
 http://192.168.123.1:5678/sxg.php?id=ygw_4000
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视gudou",CCTV4K
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=4005
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视gudou",CCTV16-4K
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=4010
-#EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东gudou",广东综艺4K
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=GDZYHD4K_38000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="其他gudou",G导视高清
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=GHDdaoshi_7500
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台gudou",翡翠台
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1350_4500
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台gudou",明珠台
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1351_4500
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台gudou",凤凰中文
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=fhzw_1500
-#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="卫视gudou",星空卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=xingkong_1500
-#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="卫视gudou",澳亚卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=aoya_1500
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视gudou",CCTV1
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV1HD_7000
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视gudou",CCTV2
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV2HD_7000
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视gudou",CCTV3
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV3HD_7000
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视gudou",CCTV4
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV-4HD_7500
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视gudou",CCTV5
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1605_4500
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视gudou",CCTV5+
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1403_4500
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视gudou",CCTV6
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV6HD_7000
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视gudou",CCTV7
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV7HD_7000
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视gudou",CCTV8
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV8HD_7000
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视gudou",CCTV9
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV9HD_7000
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视gudou",CCTV10
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV10HD_7000
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视gudou",CCTV11
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV-11HD_7500
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视gudou",CCTV12
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV12HD_7000
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视gudou",CCTV13
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1613
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视gudou",CCTV14
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV14HD_7000
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视gudou",CCTV15
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV-15HD_7500
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视gudou",CCTV16
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1617_4500
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视gudou",CCTV17
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV17HD
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视gudou",CGTN
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CCTV15news_1500
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视gudou",广东卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=guangdongHD_7000
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视gudou",深圳卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=shenzhenHD_7000
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视gudou",东方卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=dongfangHD_7000
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视gudou",北京卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=beijingHD_7000
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视gudou",湖南卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=hunanHD_7000
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视gudou",江西卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=jiangxiHD_7000
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视gudou",四川卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=sichuanHD_7000
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视gudou",江苏卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=jiangsuHD_7000
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视gudou",浙江卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=zhejiangHD_7000
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视gudou",天津卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1415_4500
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视gudou",河北卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1426_4500
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视gudou",重庆卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=chongqingHD_7000
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视gudou",贵州卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=guizhouHD_7000
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视gudou",辽宁卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=liaoningHD_7000
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视gudou",湖北卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=hubeiHD_7000
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视gudou",安徽卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=anhuiHD_7000
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视gudou",黑龙江卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=heilongjiangHD_7000
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视gudou",海南卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1451_4500
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视gudou",陕西卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1452_4500
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视gudou",东南卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=dongnanweishiHD
+
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台sxg",凤凰中文
+http://192.168.123.1:5678/sxg.php?id=test1_4000
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台sxg",凤凰资讯
+http://192.168.123.1:5678/sxg.php?id=test2_4000
+
+
+
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他gudou",CHC高清电影
 http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=CHCHD_7000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他gudou",乐游
@@ -718,8 +734,6 @@ http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCn
 http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=gdnews_1500
 #EXTINF:-1,tvg-id="广东公共" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东gudou",广东公共
 http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=gdpublic_1500
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视gudou",大湾区卫视
-http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=gdnanfang_1500
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东gudou",广东影视
 http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=gdyingshi_1500
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他gudou",嘉佳卡通
