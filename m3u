@@ -86,9 +86,9 @@ http://192.168.123.1:5678/sxg.php?id=ys4Kcq_2000
 http://192.168.123.1:5678/sxg.php?id=emdy4k_8000
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="蜀小果php其他",欢笑剧场4K
 http://192.168.123.1:5678/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="蜀小果php香港",凤凰中文
 http://192.168.123.1:5678/sxg.php?id=test1_4000
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="蜀小果php香港",凤凰资讯
 http://192.168.123.1:5678/sxg.php?id=test2_4000
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="蜀小果php卫视",安徽卫视
 http://192.168.123.1:5678/sxg.php?id=ahwsH265_4000
@@ -184,7 +184,7 @@ http://192.168.123.1:5678/sxg.php?id=bjjs_2000
 http://192.168.123.1:5678/sxg.php?id=jjkt_2000
 #EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="蜀小果php其他",家庭理财
 http://192.168.123.1:5678/sxg.php?id=jtlc_4000
-#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="江苏",江苏财富天下
+#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="蜀小果php江苏",江苏财富天下
 http://192.168.123.1:5678/sxg.php?id=cftx_4000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="蜀小果php其他",金鹰纪实
 http://192.168.123.1:5678/sxg.php?id=jyjsHDH265_4000
@@ -608,7 +608,7 @@ http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCn
 http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1350_4500
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="谷豆php港澳台",明珠台
 http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1351_4500
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="谷豆php香港",凤凰中文
 http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=fhzw_1500
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="谷豆php卫视",星空卫视
 http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=xingkong_1500
