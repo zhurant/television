@@ -183,7 +183,8 @@ http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCn
 http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=dongnanweishiHD
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视gudou",大湾区卫视
 http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=gdnanfang_1500
-
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
+http://192.168.123.1:5678/gudou.php?phone=13756314183&ptoken=RHCRd3ZVEUzh5IOhzCnuJw%3D%3D&pserialnumber=6d49db27da7286c5&cid=364&id=1453
 
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视sxg",安徽卫视
 http://192.168.123.1:5678/sxg.php?id=ahwsH265_4000
