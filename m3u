@@ -3,17 +3,17 @@
 #EXTINF:-1 logo="" group-title="互联网采集源" ,斗鱼PDD
 http://epg.112114.xyz/douyu/101
 #EXTINF:-1 logo="" group-title="互联网采集源" ,local斗鱼PDD
-http://192.168.123.205:5000/douyu/101
+http://192.168.123.1:5678/allinone.php?douyuid=101
 #EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙托马斯
 http://epg.112114.xyz/huya/20641
 #EXTINF:-1 logo="" group-title="互联网采集源" ,local虎牙托马斯
-http://192.168.123.205:5000/huya/20641
+http://192.168.123.1:5678/allinone.php?huyaid=20641
 #EXTINF:-1 logo="" group-title="互联网采集源" ,B站测试
 http://epg.112114.xyz/bilibili/94277
 #EXTINF:-1 logo="" group-title="互联网采集源" ,localB站测试
-http://192.168.123.205:5000/bilibili/94277
+http://192.168.123.1:5678/allinone.php?biliid=94277
 #EXTINF:-1 logo="" group-title="互联网采集源" ,罗永浩抖音直播间
-https://php.52sf.ga/douyin.php?id=168465302284
+http://192.168.123.1:5678/allinone.php?douyinid=168465302284
 #EXTINF:-1 logo="" group-title="互联网采集源" ,涛哥水果直播间
 https://php.52sf.ga/douyin.php?id=77089790109
 #EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙周星星
