@@ -8,40 +8,69 @@ http://192.168.123.1:5678/allinone.php?douyuid=101
 http://epg.112114.xyz/huya/20641
 #EXTINF:-1 logo="" group-title="互联网采集源" ,local虎牙托马斯
 http://192.168.123.1:5678/allinone.php?huyaid=20641
-#EXTINF:-1 logo="" group-title="互联网采集源" ,B站测试
-http://epg.112114.xyz/bilibili/94277
 #EXTINF:-1 logo="" group-title="互联网采集源" ,localB站测试
-http://192.168.123.1:5678/allinone.php?biliid=94277
+http://192.168.123.1:5678/allinone.php?biliid=22508204
 #EXTINF:-1 logo="" group-title="互联网采集源" ,罗永浩抖音直播间
 http://192.168.123.1:5678/allinone.php?douyinid=168465302284
 #EXTINF:-1 logo="" group-title="互联网采集源" ,涛哥水果直播间
 https://php.52sf.ga/douyin.php?id=77089790109
-#EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙周星星
-http://epg.112114.xyz/huya/11342412
-#EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙阿斗归来
-http://epg.112114.xyz/huya/13303478
-#EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙影院
-http://epg.112114.xyz/huya/11601968
-#EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙滚滚长江东逝水 
-http://epg.112114.xyz/huya/11352944
-#EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙经典武侠 
-http://epg.112114.xyz/huya/12129867
-#EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙小木子先生
-http://epg.112114.xyz/huya/11342396
-#EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙瞬间爆炸
-http://epg.112114.xyz/huya/11352960
-#EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙武林萌主唐小姐
-http://epg.112114.xyz/huya/11336726
-#EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙种瓜得弟弟
-http://epg.112114.xyz/huya/11352872
-#EXTINF:-1 logo="" group-title="互联网采集源" ,斗鱼特辑电影院
-http://epg.112114.xyz/douyu/3637778
-#EXTINF:-1 logo="" group-title="互联网采集源" ,斗鱼周末影院2
-http://epg.112114.xyz/douyu/3637726
-#EXTINF:-1 logo="" group-title="互联网采集源" ,斗鱼狂仔酷炫
-http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 logo="" group-title="互联网采集源" ,斗鱼特辑电影院
-http://epg.112114.xyz/douyu/252802
+
+--咪咕体育
+#EXTINF:-1 logo="" group-title="" ,咪咕1
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕2
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕3
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕4
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕5
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕6
+http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕7
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕8
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕9
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕10
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕11
+http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕12
+http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕13
+http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕14
+http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕15
+http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕16
+http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕17
+http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕18
+http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕19
+http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕20
+http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕21
+http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕22
+http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕23
+http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕24
+http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕25
+http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕26
+http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,咪咕27
+http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
+
 
 --歌华在线
 #EXTM3U
