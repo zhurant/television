@@ -3,7 +3,7 @@
 #EXTINF:-1 logo="" group-title="互联网采集源" ,斗鱼PDD
 http://epg.112114.xyz/douyu/101
 #EXTINF:-1 logo="" group-title="互联网采集源" ,local斗鱼PDD
-http://192.168.123.205:5678/allinone.php?douyuid=101
+http://192.168.123.205:5000/douyu/101
 #EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙托马斯
 http://epg.112114.xyz/huya/20641
 #EXTINF:-1 logo="" group-title="互联网采集源" ,local虎牙托马斯
@@ -18,15 +18,7 @@ https://php.52sf.ga/douyin.php?id=77089790109
 https://php.52sf.ga/douyin.php?id=387354284970
 #EXTINF:-1 logo="" group-title="互联网采集源" ,CCTV4K
 http://192.168.123.205:5678/cctv4k.php?id=4kfhd
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="互联网采集源",无线新闻台
-http://192.168.123.205:5678/tvb.php?id=0&hq
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="互联网采集源",无线财经资讯
-http://192.168.123.205:5678/tvb.php?id=2&hq
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="互联网采集源",事件直播1
-http://192.168.123.205:5678/tvb.php?id=4&hq
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="互联网采集源",事件直播2
-http://192.168.123.205:5678/tvb.php?id=6&hq
+
 
 --歌华在线
 #EXTM3U
