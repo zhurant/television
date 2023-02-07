@@ -4,10 +4,14 @@
 http://epg.112114.xyz/douyu/101
 #EXTINF:-1 logo="" group-title="互联网采集源" ,local斗鱼PDD
 http://192.168.123.205:5000/douyu/101
+#EXTINF:-1 logo="" group-title="互联网采集源" ,local斗鱼PDDby肥羊
+http://192.168.123.205:35455/douyu/101
 #EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙托马斯
 http://epg.112114.xyz/huya/20641
 #EXTINF:-1 logo="" group-title="互联网采集源" ,local虎牙托马斯
 http://192.168.123.205:5000/huya/20641
+#EXTINF:-1 logo="" group-title="互联网采集源" ,local虎牙托马斯by肥羊
+http://192.168.123.205:35455/huya/20641
 #EXTINF:-1 logo="" group-title="互联网采集源" ,localB站测试
 http://192.168.123.205:5678/allinone.php?biliid=22508204
 #EXTINF:-1 logo="" group-title="互联网采集源" ,罗永浩抖音直播间
