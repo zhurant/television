@@ -24,7 +24,7 @@ http://192.168.123.205:35455/douyin/168465302284
 https://php.52sf.ga/douyin.php?id=77089790109
 #EXTINF:-1 logo="" group-title="互联网采集源" ,小R妈在美国直播间
 https://php.52sf.ga/douyin.php?id=387354284970
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/ebfdaa542323d8af8fca0feeb367f8759c7f9b30.jpg" group-title="互联网采集源", 哔哩哔哩足球赛事
+#EXTINF:-1 logo="" group-title="互联网采集源", 哔哩哔哩足球赛事
 http://192.168.123.205:35455/bilibili/22?line=first
 #EXTINF:-1 logo="" group-title="互联网采集源" ,CCTV4K
 http://192.168.123.205:5678/cctv4k.php?id=4kfhd
