@@ -24,6 +24,7 @@ http://192.168.123.205:35455/douyin/168465302284
 https://php.52sf.ga/douyin.php?id=77089790109
 #EXTINF:-1 logo="" group-title="互联网采集源" ,小R妈在美国直播间
 https://php.52sf.ga/douyin.php?id=387354284970
+<<<<<<< Updated upstream
 #EXTINF:-1 logo="" group-title="互联网采集源", 哔哩哔哩足球赛事
 http://192.168.123.205:35455/bilibili/22?line=first
 #EXTINF:-1 logo="" group-title="互联网采集源" ,CCTV4K
@@ -31,6 +32,13 @@ http://192.168.123.205:5678/cctv4k.php?id=4kfhd
 
 
 --歌华在线
+=======
+#EXTINF:-1 logo="" group-title="互联网采集源" ,CCTV4K
+http://192.168.123.205:5678/cctv4k.php?id=4kfhd
+
+--歌华在线
+#EXTM3U
+>>>>>>> Stashed changes
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视ghyx",CCTV1
 http://192.168.123.205:5678/ghyx.php?id=CCTV1HD_6000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视ghyx",CCTV2
