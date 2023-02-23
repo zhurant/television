@@ -6,6 +6,7 @@ http://epg.112114.xyz/douyu/101
 http://192.168.123.205:5000/douyu/101
 #EXTINF:-1 logo="" group-title="互联网采集源" ,local斗鱼PDDby肥羊
 http://192.168.123.205:35455/douyu/101
+
 #EXTINF:-1 logo="" group-title="互联网采集源" ,虎牙托马斯
 http://epg.112114.xyz/huya/20641
 #EXTINF:-1 logo="" group-title="互联网采集源" ,local虎牙托马斯
@@ -16,14 +17,14 @@ http://192.168.123.205:35455/huya/20641
 http://192.168.123.205:5678/allinone.php?biliid=22508204
 #EXTINF:-1 logo="" group-title="互联网采集源" ,localB站测试by肥羊
 http://192.168.123.205:35455/bilibili/22508204(?platform=h5&line=first&quality=10000)
-#EXTINF:-1 logo="" group-title="互联网采集源" ,罗永浩抖音直播间
-http://192.168.123.205:5678/allinone.php?douyinid=168465302284
+
 #EXTINF:-1 logo="" group-title="互联网采集源" ,罗永浩抖音直播间by肥羊
 http://192.168.123.205:35455/douyin/168465302284
 #EXTINF:-1 logo="" group-title="互联网采集源" ,涛哥水果直播间
-https://php.52sf.ga/douyin.php?id=77089790109
+http://192.168.123.205:35455/douyin/77089790109
 #EXTINF:-1 logo="" group-title="互联网采集源" ,小R妈在美国直播间
-https://php.52sf.ga/douyin.php?id=387354284970
+http://192.168.123.205:35455/douyin/387354284970
+
 #EXTINF:-1 logo="" group-title="互联网采集源", 哔哩哔哩足球赛事
 http://192.168.123.205:35455/bilibili/22?line=first
 #EXTINF:-1 logo="" group-title="互联网采集源" ,CCTV4K
