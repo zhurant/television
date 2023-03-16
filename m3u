@@ -16,7 +16,7 @@ http://192.168.123.205:35455/huya/20641
 #EXTINF:-1 logo="" group-title="互联网采集源" ,localB站测试
 http://192.168.123.205:5678/allinone.php?biliid=27336985
 #EXTINF:-1 logo="" group-title="互联网采集源" ,localB站测试by肥羊
-http://192.168.123.205:35455/bilibili/22508204(?platform=h5&line=first&quality=10000)
+http://192.168.123.205:35455/bilibili/27336985(?platform=h5&line=first&quality=10000)
 
 #EXTINF:-1 logo="" group-title="互联网采集源" ,罗永浩抖音直播间by肥羊
 http://192.168.123.205:35455/douyin/168465302284
