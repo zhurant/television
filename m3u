@@ -20,13 +20,10 @@ http://192.168.123.205:35455/bilibili/27336985?line=first
 
 #EXTINF:-1 logo="" group-title="互联网采集源" ,罗永浩抖音直播间by肥羊
 http://192.168.123.205:35455/douyin/168465302284
-#EXTINF:-1 logo="" group-title="互联网采集源" ,涛哥水果直播间
-http://192.168.123.205:35455/douyin/77089790109
-#EXTINF:-1 logo="" group-title="互联网采集源" ,小R妈在美国直播间
-http://192.168.123.205:35455/douyin/387354284970
 
 #EXTINF:-1 logo="" group-title="互联网采集源", 哔哩哔哩足球赛事
 http://192.168.123.205:35455/bilibili/22?line=first
+
 #EXTINF:-1 logo="" group-title="互联网采集源" ,CCTV4K
 http://192.168.123.205:5678/cctv4k.php?id=4kfhd
 #EXTINF:-1 logo="" group-title="弯弯" ,TVB新闻
@@ -54,3 +51,106 @@ http://192.168.123.205:35455/youtube/B7Zp3d6xXWw
 #EXTINF:-1 logo="" group-title="弯弯" ,鏡新聞
 http://192.168.123.205:35455/youtube/5n0y6b0Q25o
 
+央视频道,#genre#
+CCTV1,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV1,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV2,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV2,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV3,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV3,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV4,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV4,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV5,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5+,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV5+,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV6,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV6,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV7,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV7,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV8,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV9,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV9,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV10,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV10,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV11,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV11,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV12,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV12,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV13,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV14,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV14,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV15,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV15,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV16,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV16,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV17,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV17,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+省级频道,#genre#
+东方卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+东方卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+浙江卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+浙江卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+江苏卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+江苏卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+安徽卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
+安徽卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
+湖南卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+湖南卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+湖北卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
+湖北卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
+四川卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
+四川卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
+重庆卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
+重庆卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
+云南卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
+云南卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
+贵州卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
+贵州卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
+北京卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+北京卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+天津卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
+天津卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
+山东卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
+山东卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
+山西卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
+山西卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
+辽宁卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+辽宁卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+吉林卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
+吉林卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
+黑龙江卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+黑龙江卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+广东卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
+广东卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
+广西卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+广西卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+深圳卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+深圳卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+海南卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+海南卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+东南卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
+东南卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
+江西卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
+江西卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
+河南卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+河南卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+河北卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+河北卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+甘肃卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
+甘肃卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
+陕西卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/sxws/1300000/mnf.m3u8
+陕西卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/sxws/1300000/mnf.m3u8
+宁夏卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/nxws/1300000/mnf.m3u8
+宁夏卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/nxws/1300000/mnf.m3u8
+青海卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
+青海卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
+新疆卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/xjws/1300000/mnf.m3u8
+新疆卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/xjws/1300000/mnf.m3u8
+内蒙古卫视,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/nmgws/1300000/mnf.m3u8
+内蒙古卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/nmgws/1300000/mnf.m3u8
+纪实人文,http://61.160.242.114/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+纪实人文,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
